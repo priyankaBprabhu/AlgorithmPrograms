@@ -1,6 +1,7 @@
 package com.bridgelabz.algorithmesprograms;
 
-public class BubbleSort {public static void main(String[] args) {
+public class BubbleSort {
+    public static void main(String[] args) {
 
     BubbleSort sort = new BubbleSort();
     int array[] = new int[]{2,1,8,4,7,3,0};
